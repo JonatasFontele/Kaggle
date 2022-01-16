@@ -14,12 +14,13 @@ Kaggle training
     * Fare
     * Cabin
     * Embarked
-| Primeiro cabeçalho  |  Segundo cabeçalho  |
-| ------------------- | ------------------- |
-|  Célula de conteúdo |  Célula de conteúdo |
-|  Célula de conteúdo |  Célula de conteúdo |
   * Test set (test.csv)
     * All features from Training set but 'Survived'
   * Sample submission file wich assumes that all female passengers survived (gender_submission.csv)
     * PassengerId
     * Survived
+
+| Primeiro cabeçalho  |  Segundo cabeçalho  |
+| ------------------- | ------------------- |
+|  Célula de conteúdo |  Célula de conteúdo |
+|  Célula de conteúdo |  Célula de conteúdo |
