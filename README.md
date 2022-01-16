@@ -5,10 +5,10 @@ Kaggle training
 
     | Feature | Definition | Key |
     | ------------------- | ------------------- | ------------------- |
-    | PassengerId |  |  |
+    | PassengerId | Id |  |
     | Survived | "ground truth" | 0 = No, 1 = Yes |
     | Pclass | Ticket class | 1 = 1st, 2 = 2nd, 3 = 3rd |
-    | Name | Ticket class | |
+    | Name | Name | |
     | Sex | Sex | |
     | Age | Age in years | |
     | SibSp | # of siblings / spouses aboard the Titanic| |
