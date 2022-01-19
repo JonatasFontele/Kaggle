@@ -1,6 +1,6 @@
 # Kaggle
 Kaggle training
-* [Titanic - Machine Learning from Disaster.ipynb](https://github.com/JonatasFontele/Kaggle/tree/main/Titanic)
+* [Titanic - Machine Learning from Disaster](https://github.com/JonatasFontele/Kaggle/tree/main/Titanic)
   * Training set (train.csv)
 
     | Feature | Definition | Key |
